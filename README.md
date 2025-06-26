@@ -33,7 +33,8 @@ These metrics help in monitoring growth, assessing team performance, and forecas
 
 Visualisations were created using [Excel] for clarity and impact. You can view the Dashboard snapshot by clicking the link below:
 
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/dashboard_snapshot.png)
+![Dashboard Screenshot](https://github.com/O-mahhhh/Sales-Performance-Analysis/blob/main/AutoCar%20Sales%20Dashboard.png)
+
 The analysis revealed significant insights, such as:
 
 - A seasonal spike in sales during Q4 across all regions, indicating strong holiday performance.
@@ -48,7 +49,7 @@ The analysis revealed significant insights, such as:
 
 ## Conclusion and Recommendations
 
-This dashboard provides a clear picture of sales dynamics and performance trends. It empowers decision-makers with actionable insights, such as:
+This dashboard provides a clear picture of car sales dynamics and performance trends. It empowers decision-makers with actionable insights, such as:
 
 - Doubling down on top-performing regions and products.
 - Reallocating marketing resources to boost low-performing segments.
@@ -63,5 +64,4 @@ This dashboard provides a clear picture of sales dynamics and performance trends
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/yusuffmuslimaholasumbo)  
-- [GitHub – @muslimah-odus](https://github.com/muslimah-odus)
+[LinkedIn](https://www.linkedin.com/in/yusuffmuslimaholasumbo)  [GitHub](https://github.com/muslimah-odus).
