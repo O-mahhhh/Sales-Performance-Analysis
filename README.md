@@ -31,12 +31,9 @@ These metrics help in monitoring growth, assessing team performance, and forecas
 
 ## Analysis and Visualization
 
-Visualizations were created using [Excel] for clarity and impact. You can view the Dashboard snapshot by clicking the link below:
+Visualisations were created using [Excel] for clarity and impact. You can view the Dashboard snapshot by clicking the link below:
 
-![Dashboard Screenshot](https://github.com/O-mahhhh/Sales-Performance-Analysis/blob/main/AutoCar%20Sales%20Dashboard.png)
-
-## Analysis
-
+![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/dashboard_snapshot.png)
 The analysis revealed significant insights, such as:
 
 - A seasonal spike in sales during Q4 across all regions, indicating strong holiday performance.
@@ -46,4 +43,25 @@ The analysis revealed significant insights, such as:
 
 ## You Can Interact With This Project Here
 
-➡️ [View the Project Dashboard](
+➡️ [View the Project Dashboard](https://github.com/O-mahhhh/Sales-Performance-Analysis/blob/main/AUTO%20CAR%20SALES.xlsx)
+
+
+## Conclusion and Recommendations
+
+This dashboard provides a clear picture of sales dynamics and performance trends. It empowers decision-makers with actionable insights, such as:
+
+- Doubling down on top-performing regions and products.
+- Reallocating marketing resources to boost low-performing segments.
+- Investing in customer loyalty programs to drive repeat purchases.
+
+**Recommendations:**
+
+1. Conduct monthly reviews using this dashboard.
+2. Integrate real-time data sources for continuous tracking.
+3. Expand to include competitor analysis and pricing insights.
+
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/yusuffmuslimaholasumbo)  
+- [GitHub – @muslimah-odus](https://github.com/muslimah-odus)
