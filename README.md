@@ -32,4 +32,18 @@ These metrics help in monitoring growth, assessing team performance, and forecas
 ## Analysis and Visualization
 
 Visualizations were created using [Excel] for clarity and impact. You can view the Dashboard snapshot by clicking the link below:
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/images/dashboard_snapshot.png
+
+![Dashboard Screenshot](https://github.com/O-mahhhh/Sales-Performance-Analysis/blob/main/AutoCar%20Sales%20Dashboard.png)
+
+## Analysis
+
+The analysis revealed significant insights, such as:
+
+- A seasonal spike in sales during Q4 across all regions, indicating strong holiday performance.
+- The majority of sales revenue is driven by a few top-performing car models and brands, suggesting an opportunity to expand their product line.
+- Underperforming regions need targeted marketing efforts to boost awareness and sales conversion.
+- Repeat customers account for a significant portion of sales, highlighting the importance of customer retention strategies.
+
+## You Can Interact With This Project Here
+
+➡️ [View the Project Dashboard](
