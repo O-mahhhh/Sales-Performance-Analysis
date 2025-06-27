@@ -47,19 +47,41 @@ The analysis revealed significant insights, such as:
 ➡️ [View the Project Dashboard](https://github.com/O-mahhhh/Sales-Performance-Analysis/blob/main/AUTO%20CAR%20SALES.xlsx)
 
 
-## Conclusion and Recommendations
+## Summary
 
-This dashboard provides a clear picture of car sales dynamics and performance trends. It empowers decision-makers with actionable insights, such as:
+The 2020 Sales Performance Dashboard for AutoCar LTD reveals a strong sales year, totaling **1,491 vehicle units sold**. Key insights include:
 
-- Doubling down on top-performing regions and products.
-- Reallocating marketing resources to boost low-performing segments.
-- Investing in customer loyalty programs to drive repeat purchases.
+- The majority of customers fall within the **26–35 age range**, reflecting a youthful market.
+- **Lagos, Osun, and Ogun** branches performed exceptionally well, while **Ekiti, Ondo, and Oyo** underperformed relative to their population sizes.
+- Sales peaked in **November** and were consistently strong on **Wednesdays**.
+- **Ford** and **Toyota** models such as **Corolla, Fiesta, and Civic** were top performers, while **Chevrolet** and **Camry** lagged behind.
 
-**Recommendations:**
+## Observations
 
-1. Conduct monthly reviews using this dashboard.
-2. Integrate real-time data sources for continuous tracking.
-3. Expand to include competitor analysis and pricing insights.
+### Branch Performance
+- **Ekiti** contributed only **1.14%** of sales despite representing **7.56%** of the population.
+- **Ondo and Oyo** also showed lower-than-expected performance.
+- Meanwhile, **Osun and Ogun** exceeded expectations, with high sales figures despite moderate PAYE and population levels.
+
+### Market Risks
+- Closing branches in underperforming states may impact **overall market reach** and brand visibility.
+
+### Expansion Opportunities
+- States like **Osun and Ogun** demonstrate strong **sales-to-population efficiency**.
+- Consider expansion into similar markets like **Edo** and **Kwara**, where purchasing power is strong despite mid-range population.l
+
+
+## Recommendations
+
+- **Do Not Rush to Close Branches**: Before closing low-performing branches like Ekiti, conduct a thorough **cost-per-sale analysis**.
+- **Marketing Over Closure**: Increase **targeted marketing campaigns** in low PAYE states such as Oyo and Ondo to boost visibility and affordability.
+- **Branch Expansion**: Explore new branch openings in states with high efficiency and potential (e.g., Edo, Kwara).
+- **Inventory Optimization**:
+  - Prioritize stocking high-demand models: **Corolla, Fiesta, Civic**.
+  - Reduce inventory of underperforming models like **Camry**, unless supported by regional sales data.
+- **Brand Strategy**: Strengthen dealership partnerships with top-performing brands **Toyota** and **Ford**.
+- **Sales Strategy for Lagos**: Although Lagos has a large population and economy, sales underperformed. Adopt **premium marketing tactics** to better convert its high-income segment.
+- **Financing Strategy**: Introduce or expand **vehicle financing options** in low-PAYE states to make car ownership more accessible.
 
 
 ## Connect With Me
